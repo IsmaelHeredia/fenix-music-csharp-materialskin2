@@ -1,2 +1,11 @@
-# fenix-music-materialskin2
- Fenix Music in MaterialSkin2
+# Fenix Music 1.3
+
+It is a music player made in C#, MaterialSkin 2 and SQLite.
+
+A pictures :
+
+![screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV4KvlAOTGpbxolMqeDPFlpKSUqzevECMSDyH3Gg3HfVLSnVQmRsJpTVnkJwbhytFuLnLzj91xJiStspRok-z9qX6zv9a7mG2YJ-h6KLj_HqdBEW5_fEuGDo-TGBg6YH0BKwgnxpn6aEZF7L49fSCMpRKpDBIWdasc-s5bxTow52ok51FI1O-0HaXq/s874/Screenshot_1.png)
+
+![screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_O91a6gLfLhoije_nj3mMgZCOgNsvC2EXmv4DVDqG_VJ4Q7nMW_iIJGkTcjEM-Bbx70IgcbeULfRf0n5P-5HRIrBNxputzH2ZgReLbbX0Zb_VFOa0dFndhKEnTF_Qcp7gtKwKtl467-YxPzeO79EWtnONlfyyFTVXowRbMve2Q2srZ_q9LWwuISXp/s873/Screenshot_2.png)
+
+![screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnHXsGs1jn5MH32XXAUf-pWPS27ZfQWzwdqOeVy3B3ayTCJUtstEAxZsF_SUMF9yaeie1gqxvEd_PzeffwNhd3vPBnXSfz6kGkozEelHL1WCwZJ_OtDre8Q3bjoO6xyJirLU2UqcgGH6QHDSt01SOyhaUcdSJg0WhY51MQzfeI1uDPHknMDlT_TqDt/s873/Screenshot_3.png)
